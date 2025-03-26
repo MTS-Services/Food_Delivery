@@ -62,7 +62,7 @@ class _ProductBennerState extends State<ProductBenner> {
                     ),
               ),
               SizedBox(
-                height: 10,
+                height: 5,
               ),
               ElevatedButton(
                 style: ElevatedButton.styleFrom(
