@@ -33,7 +33,7 @@ Japanese restaurant app is a design implementation of [Japanese restaurant app](
 
 Onboding                    |   Home screen             |  Food Detail Screen    |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/media_20250326_160253_8400753724536336574.jpg?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/media_20250326_160253_6041161094151534765.jpg?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/media_20250326_160303_2181217312802007082.jpg?raw=true)
+![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![]([https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/media_20250326_160253_8400753724536336574.jpg](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_5058362537592697515.jpg)?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/media_20250326_160253_6041161094151534765.jpg?raw=true)|![](https://github.com/SinaSys/flutter_japanese_restaurant_app/blob/master/screenshots/media_20250326_160303_2181217312802007082.jpg?raw=true)
 
 ## Screenshots (Dark mode)
 
