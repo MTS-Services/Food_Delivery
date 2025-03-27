@@ -33,13 +33,14 @@ Japanese restaurant app is a design implementation of [Japanese restaurant app](
 
 Onboding                    |   SignUp Screen          |  LogIn screen  |  Country Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6041161094151534765.jpg)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_8400753724536336574.jpg?raw=true)
+![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6041161094151534765.jpg)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg.jpg?raw=true)
+
 
 ## Screenshots (Dark mode)
 
 Favorite screen            |   Home screen             |  Food Detail Screen       |  Cart Screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6041161094151534765.jpg)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_8400753724536336574.jpg?raw=true)
+![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6041161094151534765.jpg)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg.jpg?raw=true)
 
 
 ## 🚀 Features :
