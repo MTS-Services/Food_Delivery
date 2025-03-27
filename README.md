@@ -6,16 +6,6 @@
   <img src="https://img.shields.io/github/v/release/SinaSys/flutter_japanese_restaurant_app?label=Release&logo=semantic-release">
   <img src="https://img.shields.io/github/last-commit/SinaSys/flutter_japanese_restaurant_app?label=Last%20commit">
 
-## GetX | Cubit | Bloc | Provider
-
-#### • Access to different versions
-
-|               Version               |                                                  Bloc                                                  |                                                                   Cubit                                                                    |                                                     Getx                                                      |                                                     Provider                                                      |
-|:-----------------------------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-|               Branch                | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/bloc) <br/> (bloc branch)️ | !                                   [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/cubit)   <br/> (cubit branch) | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/master)     <br/> (master branch) | [Source](https://github.com/SinaSys/flutter_japanese_restaurant_app/tree/provider)     <br/> (provider branch) |
-
-  <br/>
-
 ## Screenshots (Light mode)
 
 Onboding                    |   SignUp Screen          |  Country Screen |  LogIn screen 
