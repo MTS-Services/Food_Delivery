@@ -38,9 +38,9 @@ Onboding                    |   SignUp Screen          |  Country Screen |  LogI
 
 ## Screenshots (Dark mode)
 
-Favorite screen            |   Home screen             |  Food Detail Screen       |  Cart Screen
+Home Screen         |   All Product View Screen           |  Order Card Screen       |  confirm order screen
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/ImportedPhoto_1742982799699.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6041161094151534765.jpg)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_303141188652231579.jpg.jpg?raw=true)
+![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_6119407009071195624.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_8400753724536336574.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160253_5058362537592697515.jpg?raw=true)|![](https://github.com/MTS-Services/Food_Delivery/blob/main/screenshots/media_20250326_160303_2181217312802007082.jpg?raw=true)
 
 
 ## 🚀 Features :
